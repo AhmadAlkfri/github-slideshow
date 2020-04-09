@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-CORONAVIRUS
+CORONAVIRUSS
 Use the left arrow to go back!
